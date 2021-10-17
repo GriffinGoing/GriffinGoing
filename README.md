@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GriffinGoing
+👋 Hi, I’m @GriffinGoing
 
 While studying music as a college undergraduate, I took an introductory computer programming course as an elective. 
 Though it was difficult, I loved the creaitive possibilities I felt were now available to me. Making the decision to 
